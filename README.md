@@ -1,2 +1,2 @@
 # sql-for-data-analytics
-My SQL learning journey for data analytics in industrial engineering contexts
+My SQL learning journey for Data Analytics from ZERO to HERO
