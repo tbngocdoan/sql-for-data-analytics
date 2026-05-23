@@ -1,14 +1,21 @@
-Hi, I'm Ngoc Doan - an Industrial Engineering student building data analytics skills to bridge the gap between operations and data-driven decision making.
-
+Learning SQL in building data analytics skills to bridge the gap between operations and data-driven decision making.
+-
 Current Projects: Xóm Retail
 
-Practicing SQL on a real-world multinational retail dataset (customers, products, sales, stores) 
-by solving realistic business questions from different stakeholders/departments 
-like Head of Finance, VP of Store Operations, and Head of CRM.
+Business Context:
+Xóm Retail is a multinational retail chain distributing premium consumer products (electronics, home appliances, accessories, toys, cosmetics) across North America, Europe, Asia, and Australia. The company operates hundreds of physical stores across 20+ countries with ~$1.2B annual revenue, 1.5M+ active customers, and 2,500+ SKUs across 8 product categories.
 
-Dataset: 4 tables (customers, products, sales, stores); 20+ countries; 2,500+ SKUs
+Dataset: 4 tables (customers, products, sales, stores) | Tool: SSMS
 
-Tool: SSMS 
+Business Problems Being Solved:
+
+🚚 Delivery delays — which stores have the worst delivery performance?
+
+📉 Customer churn — are customers from 2020 still buying in 2023?
+
+🏪 Store cannibalization — do two stores in the same state hurt each other's sales?
+
+My responsibility: Solve 15 business questions with increasing difficulty level from various stakeholders (Head of Merchandising, VP Store Ops, Head of CRM, Head of Finance, COO).
 
 Learning Roadmap:
 
